@@ -1,2 +1,0 @@
-# Gunavathy-R
-Spark foundation
