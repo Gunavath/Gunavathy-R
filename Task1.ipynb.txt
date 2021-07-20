@@ -4,7 +4,7 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "## Name: Riteeka Amol Purnekar\n",
+    "## Name: Gunavathy R\n",
     "\n",
     "## Task 1: Prediction using Supervised ML\n",
     "\n",
